@@ -194,7 +194,7 @@
 		<div class="box-main">
 			<div class="firstHalf">
 				<h1 class="text-big" id="web">Web Technology</h1>
-				<h1 class="text-big" id="web">This is Venkatgiri.Learning Devops</h1>
+				<h1 class="text-big" id="web">This is Venkatgiri.Learning Devops in night time</h1>
 				<p class="text-small">
 					HTML stands for HyperText Markup Language.
 					It is used to design web pages using a markup

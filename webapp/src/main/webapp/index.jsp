@@ -179,7 +179,7 @@
 			<div class="logo">
 				<img src= "logo.png">
 			</div>
-			<li><a href="#web">Web Technology:venkat</a></li>
+			<li><a href="#web">Web Technology:venkat:sasanapuri</a></li>
 			<li><a href="#program">C Programming</a></li>
 			<li><a href="#course">Courses</a></li>
 		</ul>

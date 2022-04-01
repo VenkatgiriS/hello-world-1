@@ -4,7 +4,7 @@
 <html>
 
 <head>
-	<title>Simple web Development Template</title>
+	<title>Simple web Development Template From SVG</title>
 
 	<style>
 		* {

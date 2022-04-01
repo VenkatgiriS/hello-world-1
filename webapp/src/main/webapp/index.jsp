@@ -193,7 +193,7 @@
 	<section class="firstsection">
 		<div class="box-main">
 			<div class="firstHalf">
-				<h1 class="text-big" id="web">Web Technology and container technology</h1>
+				<h1 class="text-big" id="web">Web Technology and container technology devops and kubernets</h1>
 				<p class="text-small">
 					HTML stands for HyperText Markup Language.
 					It is used to design web pages using a markup

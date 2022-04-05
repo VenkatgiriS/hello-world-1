@@ -179,7 +179,7 @@
 			<div class="logo">
 				<img src= "logo.png">
 			</div>
-			<li><a href="#web">Web Technology:Sasanapuri</a></li>
+			<li><a href="#web">Web Technology</a></li>
 			<li><a href="#program">C Programming</a></li>
 			<li><a href="#course">Courses</a></li>
 		</ul>
@@ -196,6 +196,7 @@
 				<h1 class="text-big" id="web">Web Technology</h1>
 				<p class="text-small">
 					HTML stands for HyperText Markup Language.
+					Best for Practice for starters
 					It is used to design web pages using a markup
 					language. HTML is the combination of Hypertext
 					and Markup language. Hypertext defines the

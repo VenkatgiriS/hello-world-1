@@ -193,7 +193,7 @@
 	<section class="firstsection">
 		<div class="box-main">
 			<div class="firstHalf">
-				<h1 class="text-big" id="web">Web Technology</h1>
+				<h1 class="text-big" id="web">Web Technology:Devops</h1>
 				<p class="text-small">
 					HTML stands for HyperText Markup Language.
 					Best for Practice for starters
